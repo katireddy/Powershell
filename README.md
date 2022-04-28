@@ -1,6 +1,9 @@
 # Powershell
 
 
+credit:geekyhub (you tube)
+
+
 Below Images Contains code 
 
 
