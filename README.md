@@ -4,6 +4,10 @@
 credit:geekyhub (you tube)
 
 
+
+https://www.spguides.com/powershell-examples/
+
+
 Below Images Contains code 
 
 
